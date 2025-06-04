@@ -1123,7 +1123,7 @@ Android Interview Questions and Answers:
 
 * **How to show local Notification at an exact time?**
 
-* **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager]([https://www.youtube.com/watch?v=TrufwW4ILHg](https://www.youtube.com/watch?v=FULNucVxf94))
+* **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
 
 ### Data Structures and Algorithms
 
