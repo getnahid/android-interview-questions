@@ -1113,7 +1113,7 @@ Android Interview Questions and Answers:
 
 * **What is Cleartext traffic?** Learn from here: [What is Cleartext traffic?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7281879316601126913-x1az)
 
-* **Tell something about memory usage in Android.**
+* **Tell something about memory usage in Android.** Learn from here [App Performance Analysis with the Android Studio Profiler](https://www.youtube.com/watch?v=CQc-QDTmCoQ)
 
 * **Explain Annotation processing.** Learn from here: [The Full Guide to ANNOTATIONS In Kotlin](https://www.youtube.com/watch?v=qdnhQzVGywQ)
 
@@ -1121,7 +1121,7 @@ Android Interview Questions and Answers:
 
 * **Android Push Notification Flow using FCM.** Learn from here: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
 
-* **How to show local Notification at an exact time?**
+* **How to show local Notification at an exact time?** [Local Notifications in Android - The Full Guide](https://www.youtube.com/watch?v=LP623htmWcI)
 
 * **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
 
