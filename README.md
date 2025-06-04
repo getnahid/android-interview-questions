@@ -1115,7 +1115,7 @@ Android Interview Questions and Answers:
 
 * **Tell something about memory usage in Android.**
 
-* **Explain Annotation processing.**
+* **Explain Annotation processing.** Learn from here: [The Full Guide to ANNOTATIONS In Kotlin](https://www.youtube.com/watch?v=qdnhQzVGywQ)
 
 * **How does the Android Push Notification system work?** Learn from here: [How does the Android Push Notification system work?](https://youtu.be/810IFG2sWlc)
 
