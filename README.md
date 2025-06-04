@@ -1125,6 +1125,11 @@ Android Interview Questions and Answers:
 
 * **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
 
+### Code quality
+* * **Code Analysis in Android: Detekt?**  Learn from here: [Code Analysis in Android: Detekt](https://www.youtube.com/watch?v=3uSq6sFzhQo)
+* * **How to Automatically Fix Your Code Style With Ktlint?**  Learn from here: [How to Automatically Fix Your Code Style With Ktlint](https://www.youtube.com/watch?v=hSgPNbEcX98)
+
+ 
 ### Data Structures and Algorithms
 
 * **Android Developer should know these Data Structures for Next Interview** - [Check here](https://outcomeschool.com/blog/android-developer-should-know-these-data-structures-for-next-interview)
