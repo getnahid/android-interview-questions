@@ -1109,11 +1109,7 @@ Android Interview Questions and Answers:
 
 * **How to implement Dark Theme in your app?**
 
-* **How to secure the API keys used in an Android App?**
-
 * **What is Cleartext traffic?** Learn from here: [What is Cleartext traffic?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7281879316601126913-x1az)
-
-* **Tell something about memory usage in Android.** Learn from here [App Performance Analysis with the Android Studio Profiler](https://www.youtube.com/watch?v=CQc-QDTmCoQ)
 
 * **Explain Annotation processing.** Learn from here: [The Full Guide to ANNOTATIONS In Kotlin](https://www.youtube.com/watch?v=qdnhQzVGywQ)
 
@@ -1123,12 +1119,14 @@ Android Interview Questions and Answers:
 
 * **How to show local Notification at an exact time?** [Local Notifications in Android - The Full Guide](https://www.youtube.com/watch?v=LP623htmWcI)
 
+### Security
 * **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
+* **How to secure the API keys used in an Android App?** Learn from here: [How to Hide & Protect API Keys in Your Android App](https://www.youtube.com/watch?v=-2ckvIzs0nU)
 
 ### Code quality
 * * **Code Analysis in Android: Detekt?**  Learn from here: [Code Analysis in Android: Detekt](https://www.youtube.com/watch?v=3uSq6sFzhQo)
 * * **How to Automatically Fix Your Code Style With Ktlint?**  Learn from here: [How to Automatically Fix Your Code Style With Ktlint](https://www.youtube.com/watch?v=hSgPNbEcX98)
-
+* * **Android performance analysis** Learn from here [App Performance Analysis with the Android Studio Profiler](https://www.youtube.com/watch?v=CQc-QDTmCoQ)
  
 ### Data Structures and Algorithms
 
