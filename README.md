@@ -1,27 +1,5 @@
-<p align="center">
-    <img alt="Android Interview Questions" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-interview-questions/master/assets/banner-android-interview-questions.jpg">
-</p>
-
 # Android Interview Questions and Answers
 
-> Android Interview Questions and Answers - Your Cheat Sheet For Android Interview
-
-### Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) - Coder | Teacher | Mentor | Open Source | IIT 2010-14
-
-## About me
-
-Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-## **Join Outcome School and get high-paying tech job: [Outcome School](https://outcomeschool.com)**
-
-## For knowledge-packed content: Subscribe to our [Outcome School YouTube Channel](https://www.youtube.com/@OutcomeSchool)
 
 ## Contents - Android Interview Questions
 
