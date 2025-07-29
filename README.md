@@ -17,7 +17,27 @@
 * [Java](#java)
 * [Jetpack Compose](#jetpack-compose)
 * [Other Topics](#other-topics)
-* [Data Structures and Algorithms](#data-structures-and-algorithms) 
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
+
+### Android Architecture
+
+Android Interview Questions and Answers:
+
+* **Describe the architecture of your last app.**
+
+* **Describe MVVM.** - [MVVM Architecture](https://outcomeschool.com/blog/mvvm-architecture-android)
+
+* **MVC vs MVP vs MVVM architecture.**
+
+* **Clean Architecture** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7123192186627571714-6143)
+
+* **MVI** - [MVI (Model-View-Intent) Architecture in Android](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7288428333430644738-muDc)
+
+* **Software Architecture vs Software Design** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7230434583584858112-mMEG)
+
+* **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-activity-7307324491402027008-BqC4)
+
+* **Multi-Module Project: Why and When?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7317400201558663173-n-LA)
 
 ### Android Interview Questions and Answers Playlist
 
@@ -644,26 +664,6 @@ Android Interview Questions and Answers:
 * **How The Android Image Loading Library Glide and Fresco Works?** - [Learn from here](https://outcomeschool.com/blog/android-image-loading-library-optimize-memory-usage), [here](https://outcomeschool.com/blog/android-image-loading-library-use-bitmap-pool-for-responsive-ui) and [here](https://outcomeschool.com/blog/android-image-loading-library-solve-the-slow-loading-issue)
 
 * **Difference between Schedulers.io() and Schedulers.computation() in RxJava.**
-
-### Android Architecture
-
-Android Interview Questions and Answers:
-
-* **Describe the architecture of your last app.**
-
-* **Describe MVVM.** - [MVVM Architecture](https://outcomeschool.com/blog/mvvm-architecture-android)
-
-* **MVC vs MVP vs MVVM architecture.**
-
-* **Clean Architecture** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7123192186627571714-6143)
-
-* **MVI** - [MVI (Model-View-Intent) Architecture in Android](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7288428333430644738-muDc)
-
-* **Software Architecture vs Software Design** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7230434583584858112-mMEG)
-
-* **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-activity-7307324491402027008-BqC4)
-
-* **Multi-Module Project: Why and When?** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7317400201558663173-n-LA)
 
 ### Design Pattern
 
