@@ -29,7 +29,7 @@ Android Interview Questions and Answers:
 
 * **MVI** - [MVI Architecture Pattern in Android](https://medium.com/@mohammedkhudair57/mvi-architecture-pattern-in-android-0046bf9b8a2e)
 
-* **MVC vs MVP vs MVVM architecture.**
+* **[MVVM vs MVI architecture.** - [MVVM and MVI Explained: Key Differences for Android Developers](https://medium.com/@cabanas.ignacio/mvvm-and-mvi-explained-key-differences-for-android-developers-6ca09df77b21)
 
 * **Clean Architecture** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7123192186627571714-6143)
 
