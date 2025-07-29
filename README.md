@@ -25,7 +25,7 @@ Android Interview Questions and Answers:
 
 * **Describe the architecture of your last app.**
 
-* **Describe MVVM.** - [MVVM Architecture](https://outcomeschool.com/blog/mvvm-architecture-android)
+* **Describe MVVM.** - [MVVM Clean Architecture Pattern](https://medium.com/@ami0275/mvvm-clean-architecture-pattern-in-android-with-use-cases-eff7edc2ef76)
 
 * **MVC vs MVP vs MVVM architecture.**
 
