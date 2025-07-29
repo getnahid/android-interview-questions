@@ -29,11 +29,10 @@ Android Interview Questions and Answers:
 
 * **MVI** - [MVI Architecture Pattern in Android](https://medium.com/@mohammedkhudair57/mvi-architecture-pattern-in-android-0046bf9b8a2e)
 
-* **[MVVM vs MVI architecture.** - [MVVM and MVI Explained: Key Differences for Android Developers](https://medium.com/@cabanas.ignacio/mvvm-and-mvi-explained-key-differences-for-android-developers-6ca09df77b21)
+* **MVVM vs MVI architecture.** - [MVVM and MVI Explained: Key Differences for Android Developers](https://medium.com/@cabanas.ignacio/mvvm-and-mvi-explained-key-differences-for-android-developers-6ca09df77b21)
 
-* **Clean Architecture** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7123192186627571714-6143)
+* **Clean Architecture in Android** - [Clean Architecture in Android](https://medium.com/codex/from-junior-to-senior-the-real-way-to-implement-clean-architecture-in-android-8514005e85e1)
 
-* **Software Architecture vs Software Design** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7230434583584858112-mMEG)
 
 * **Benefits of Multi-Module Architecture** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-activity-7307324491402027008-BqC4)
 
