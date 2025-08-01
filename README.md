@@ -19,10 +19,6 @@
 * [Other Topics](#other-topics)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 
-### Kotlin
-
-* **Kotlin Coroutines and Flow** [Deep understanding of Kotlin Coroutines and Flow](https://www.udemy.com/course/coroutines-on-android/learn/lecture/19312004#overview)
-
 ### Android Architecture
 
 Android Interview Questions and Answers:
@@ -43,8 +39,6 @@ Android Interview Questions and Answers:
 
 ### Android Interview Questions and Answers Playlist
 
-- **Question**: Android Push Notification Flow using FCM
-    - **Answer**: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
 - **Question**: What is an inline function in Kotlin?
     - **Answer**: [What is an inline function in Kotlin?](https://www.youtube.com/watch?v=GLLI8h67ryo)
 - **Question**: What is the advantage of using const in Kotlin?
@@ -132,6 +126,7 @@ Topics you should know in **Kotlin Flow API** for Android Interview:
 
 Learn the above-mentioned from the following links:
 
+- [Deep understanding of Kotlin Coroutines and Flow](https://www.udemy.com/course/coroutines-on-android/learn/lecture/19312004#overview)
 - [Mastering Flow API in Kotlin](https://outcomeschool.com/blog/flow-api-in-kotlin)
 - [Creating Flow Using Flow Builder in Kotlin](https://outcomeschool.com/blog/creating-flow-using-flow-builder-in-kotlin)
 - [Terminal Operators in Kotlin Flow](https://outcomeschool.com/blog/terminal-operators-in-kotlin-flow)
