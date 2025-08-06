@@ -3,7 +3,8 @@
 
 ## Contents - Android Interview Questions
 
-* [Android Interview Questions and Answers Playlist](#android-interview-questions-and-answers-playlist)
+* [Android Architecture](#android-architecture)
+* [Kotlin interview question Playlist](#android-interview-questions-and-answers-playlist)
 * [Kotlin Coroutines](#kotlin-coroutines)
 * [Kotlin Flow API](#kotlin-flow-api)
 * [Kotlin](#kotlin)
