@@ -57,12 +57,6 @@ Android Interview Questions and Answers:
     - **Answer**: [lateinit vs lazy in Kotlin](https://www.youtube.com/watch?v=IU2ZktdM-fo)
 - **Question**: What is Multidex in Android?
     - **Answer**: [What is Multidex in Android?](https://www.youtube.com/watch?v=R0zd8lmHnmE)
-- **Question**: How does the Android Push Notification system work?
-    - **Answer**: [How does the Android Push Notification system work?](https://www.youtube.com/watch?v=810IFG2sWlc)
-- **Question**: How does the Kotlin Multiplatform work?
-    - **Answer**: [How does the Kotlin Multiplatform work?](https://www.youtube.com/watch?v=nwfNh6Kd5hI)
-- **Question**: What is a ViewModel and how is it useful?
-    - **Answer**: [What is a ViewModel and how is it useful?](https://www.youtube.com/watch?v=ORtieK5f_zg)
 - **Question**: Is it possible to force the Garbage Collection in Android?
     - **Answer**: [Is it possible to force Garbage Collection in Android?](https://www.youtube.com/watch?v=fPEjpFKo1-Q)
 - **Question**: What is a JvmStatic Annotation in Kotlin?
@@ -77,6 +71,12 @@ Android Interview Questions and Answers:
     - **Answer**: [Difference between == and === in Kotlin](https://www.youtube.com/watch?v=lJtgxT2OIgQ)
 - **Question**: JvmOverloads Annotation in Kotlin
     - **Answer**: [JvmOverloads Annotation in Kotlin](https://www.youtube.com/watch?v=fHGsBV9Za8M)
+- **Question**: How does the Kotlin Multiplatform work?
+    - **Answer**: [How does the Kotlin Multiplatform work?](https://www.youtube.com/watch?v=nwfNh6Kd5hI)
+ 
+
+- **Question**: What is a ViewModel and how is it useful?
+    - **Answer**: [What is a ViewModel and how is it useful?](https://www.youtube.com/watch?v=ORtieK5f_zg)
 - **Question**: Why is it recommended to use only the default constructor to create a Fragment?
     - **Answer**: [Why is it recommended to use only the default constructor to create a Fragment?](https://www.youtube.com/watch?v=CitBt0FZFIc)
 - **Question**: Why do we need to call setContentView() in onCreate() of Activity class?
