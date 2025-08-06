@@ -14,10 +14,10 @@
 * [Android System Design](#android-system-design) and check [Android System Design Interviews](https://outcomeschool.com/blog/android-system-design-interviews) 
 * [Android Unit Testing](#android-unit-testing)
 * [Android Tools And Technologies](#android-tools-and-technologies)
-* [Java](#java)
 * [Jetpack Compose](#jetpack-compose)
 * [Other Topics](#other-topics)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
+* [Java](#java)
 
 ### Android Architecture
 
@@ -73,16 +73,6 @@ Android Interview Questions and Answers:
     - **Answer**: [JvmOverloads Annotation in Kotlin](https://www.youtube.com/watch?v=fHGsBV9Za8M)
 - **Question**: How does the Kotlin Multiplatform work?
     - **Answer**: [How does the Kotlin Multiplatform work?](https://www.youtube.com/watch?v=nwfNh6Kd5hI)
- 
-
-- **Question**: What is a ViewModel and how is it useful?
-    - **Answer**: [What is a ViewModel and how is it useful?](https://www.youtube.com/watch?v=ORtieK5f_zg)
-- **Question**: Why is it recommended to use only the default constructor to create a Fragment?
-    - **Answer**: [Why is it recommended to use only the default constructor to create a Fragment?](https://www.youtube.com/watch?v=CitBt0FZFIc)
-- **Question**: Why do we need to call setContentView() in onCreate() of Activity class?
-    - **Answer**: [Why do we need to call setContentView() in onCreate() of Activity class?](https://www.youtube.com/watch?v=U1aHAt7XC5I)
-- **Question**: When only onDestroy is called for an activity without onPause() and onStop()?
-    - **Answer**: [When only onDestroy is called for an activity without onPause() and onStop()?](https://www.youtube.com/watch?v=B2kY_ckZa-g)
 
 ### Kotlin Coroutines
 
@@ -299,6 +289,14 @@ Android Interview Questions and Answers:
 * **What is the `Application` class?** -[Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7304864185010528256-2GGU)
   
 #### Activity and Fragment
+- **Question**: What is a ViewModel and how is it useful?
+    - **Answer**: [What is a ViewModel and how is it useful?](https://www.youtube.com/watch?v=ORtieK5f_zg)
+- **Question**: Why is it recommended to use only the default constructor to create a Fragment?
+    - **Answer**: [Why is it recommended to use only the default constructor to create a Fragment?](https://www.youtube.com/watch?v=CitBt0FZFIc)
+- **Question**: Why do we need to call setContentView() in onCreate() of Activity class?
+    - **Answer**: [Why do we need to call setContentView() in onCreate() of Activity class?](https://www.youtube.com/watch?v=U1aHAt7XC5I)
+- **Question**: When only onDestroy is called for an activity without onPause() and onStop()?
+    - **Answer**: [When only onDestroy is called for an activity without onPause() and onStop()?](https://www.youtube.com/watch?v=B2kY_ckZa-g)
 
 * **Why is it recommended to use only the default constructor to create a `Fragment`?** - Learn from [video](https://www.youtube.com/watch?v=CitBt0FZFIc) and [blog](https://outcomeschool.com/blog/default-constructor-to-create-a-fragment)
 
@@ -818,6 +816,142 @@ Android Interview Questions and Answers:
 
 * **What is Write-Ahead Logging (WAL) and why it is used internally in databases?** - [Learn from here](https://outcomeschool.com/blog/write-ahead-logging)
 
+### Jetpack Compose
+
+Topics you should know in **Jetpack Compose** for Android Interview:
+
+* Compose
+* State: remember, rememberSaveable, MutableState
+* Recomposition
+* State hoisting
+* Side-effects
+* Modifier
+* Theme
+* Layout, List
+* Gestures, Animation
+* CompositionLocal
+
+Learn the above-mentioned from the following links:
+
+- [Getting Started with Compose](https://developer.android.com/jetpack/compose/tutorial)
+- [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
+- [State](https://developer.android.com/jetpack/compose/state)
+- [remember vs rememberSaveable](https://outcomeschool.com/blog/remember-vs-remembersaveable)
+- [Lifecycle](https://developer.android.com/jetpack/compose/lifecycle)
+- [Modifiers](https://developer.android.com/jetpack/compose/modifiers)
+- [Side-effects](https://developer.android.com/jetpack/compose/side-effects)
+- [Phases](https://developer.android.com/jetpack/compose/phases)
+- [Semantics](https://developer.android.com/jetpack/compose/semantics)
+- [CompositionLocal](https://developer.android.com/jetpack/compose/compositionlocal)
+- [Can we use traditional Android Views and Compose together?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7235142707138961408-40hQ)
+
+Questions
+
+* **Jetpack Compose vs Android View System**
+  
+* **Explain the concept of declarative UI in Jetpack Compose.**
+  
+* **Declarative UI vs Imperative UI**
+  
+* **What are Composable functions?**
+  
+* **What is Recomposition?**
+  
+* **What is State in Compose?**
+  
+* **How does state management work in Jetpack Compose?**
+  
+* **Stateful composable vs Stateless composable**
+  
+* **What are the side effects?**
+  
+* **Difference between LaunchedEffect and DisposableEffect**.
+  
+* **What is rememberCoroutineScope and its use cases?**
+  
+* **How to observe Flows, and LiveData states in Compose UI?**
+  
+* **How can we handle asynchronous operations in Jetpack Compose?**
+  
+* **How can we convert a non-compose state into a Compose state?**
+  
+* **Explain derivedStateOf.**
+  
+* **Explain rememberUpdatedState.**
+  
+* **Difference between remember and rememberSaveable.** - [Learn from here](https://outcomeschool.com/blog/remember-vs-remembersaveable)
+  
+* **Explain the Lifecycle of a Composable in Jetpack Compose.**
+  
+* **How do you handle lifecycle events in Compose functions?**
+  
+* **What are the best practices for performance optimization in Jetpack Compose?**
+  
+* **Can we use both Jetpack Compose and Android View in a Single App?**
+  
+* **What is State Hoisting?**
+  
+* **Explain CompositionLocal**
+  
+* **Explain Jetpack Compose Phases.**
+  
+* **What is the role of the Modifier in Jetpack Compose?**
+  
+* **What are Semantics?**
+  
+* **How can you handle user input and events in Jetpack Compose?**
+  
+* **How do you handle navigation in Jetpack Compose?**
+  
+* **How do you handle orientation changes in Jetpack Compose?**
+  
+* **Explain the concept of unidirectional data flow in Jetpack Compose.**
+  
+* **How to create Custom Layouts in Compose?**
+
+### Other Topics
+
+Android Interview Questions and Answers:
+
+* **Describe SQLite.**
+
+* **Have you used Room?**
+
+* **Can we identify the users who have uninstalled our application?**
+
+* **Android Development Best Practices.** - Learn from here: [Android Development Best Practices](https://outcomeschool.com/blog/android-development-best-practices)
+
+* **React Native vs Flutter** - Learn from here: [React Native vs Flutter](https://outcomeschool.com/blog/react-native-vs-flutter)
+
+* **What are the metrics that you should measure continuously while android application development?** - Learn from here: [Android App Performance Metrics](https://outcomeschool.com/blog/android-app-performance-metrics)
+
+* **How to avoid API keys from check-in into VCS?**
+
+* **How does the Kotlin Multiplatform work?** - [Blog](https://outcomeschool.com/blog/how-does-the-kotlin-multiplatform-work)
+
+* **How to use Memory Heap Dumps data?**
+
+* **How to implement Dark Theme in your app?**
+
+* **What is Cleartext traffic?** Learn from here: [What is Cleartext traffic?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7281879316601126913-x1az)
+
+* **Explain Annotation processing.** Learn from here: [The Full Guide to ANNOTATIONS In Kotlin](https://www.youtube.com/watch?v=qdnhQzVGywQ)
+
+* **How does the Android Push Notification system work?** Learn from here: [How does the Android Push Notification system work?](https://youtu.be/810IFG2sWlc)
+
+* **Android Push Notification Flow using FCM.** Learn from here: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
+
+* **How to show local Notification at an exact time?** [Local Notifications in Android - The Full Guide](https://www.youtube.com/watch?v=LP623htmWcI)
+
+### Security
+* **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
+* **How to secure the API keys used in an Android App?** Learn from here: [How to Hide & Protect API Keys in Your Android App](https://www.youtube.com/watch?v=-2ckvIzs0nU)
+
+### Code quality
+* * **Code Analysis in Android: Detekt?**  Learn from here: [Code Analysis in Android: Detekt](https://www.youtube.com/watch?v=3uSq6sFzhQo)
+* * **How to Automatically Fix Your Code Style With Ktlint?**  Learn from here: [How to Automatically Fix Your Code Style With Ktlint](https://www.youtube.com/watch?v=hSgPNbEcX98)
+* * **Android performance analysis** Learn from here [App Performance Analysis with the Android Studio Profiler](https://www.youtube.com/watch?v=CQc-QDTmCoQ)
+ 
 ### Java
 
 Android Interview Questions and Answers:
@@ -966,145 +1100,5 @@ Android Interview Questions and Answers:
 * **What is the difference between fail-fast and fail-safe iterators in Java?**
 
 * **Monitor and Synchronization**
-
-### Jetpack Compose
-
-Topics you should know in **Jetpack Compose** for Android Interview:
-
-* Compose
-* State: remember, rememberSaveable, MutableState
-* Recomposition
-* State hoisting
-* Side-effects
-* Modifier
-* Theme
-* Layout, List
-* Gestures, Animation
-* CompositionLocal
-
-Learn the above-mentioned from the following links:
-
-- [Getting Started with Compose](https://developer.android.com/jetpack/compose/tutorial)
-- [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
-- [State](https://developer.android.com/jetpack/compose/state)
-- [remember vs rememberSaveable](https://outcomeschool.com/blog/remember-vs-remembersaveable)
-- [Lifecycle](https://developer.android.com/jetpack/compose/lifecycle)
-- [Modifiers](https://developer.android.com/jetpack/compose/modifiers)
-- [Side-effects](https://developer.android.com/jetpack/compose/side-effects)
-- [Phases](https://developer.android.com/jetpack/compose/phases)
-- [Semantics](https://developer.android.com/jetpack/compose/semantics)
-- [CompositionLocal](https://developer.android.com/jetpack/compose/compositionlocal)
-- [Can we use traditional Android Views and Compose together?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7235142707138961408-40hQ)
-
-Questions
-
-* **Jetpack Compose vs Android View System**
-  
-* **Explain the concept of declarative UI in Jetpack Compose.**
-  
-* **Declarative UI vs Imperative UI**
-  
-* **What are Composable functions?**
-  
-* **What is Recomposition?**
-  
-* **What is State in Compose?**
-  
-* **How does state management work in Jetpack Compose?**
-  
-* **Stateful composable vs Stateless composable**
-  
-* **What are the side effects?**
-  
-* **Difference between LaunchedEffect and DisposableEffect**.
-  
-* **What is rememberCoroutineScope and its use cases?**
-  
-* **How to observe Flows, and LiveData states in Compose UI?**
-  
-* **How can we handle asynchronous operations in Jetpack Compose?**
-  
-* **How can we convert a non-compose state into a Compose state?**
-  
-* **Explain derivedStateOf.**
-  
-* **Explain rememberUpdatedState.**
-  
-* **Difference between remember and rememberSaveable.** - [Learn from here](https://outcomeschool.com/blog/remember-vs-remembersaveable)
-  
-* **Explain the Lifecycle of a Composable in Jetpack Compose.**
-  
-* **How do you handle lifecycle events in Compose functions?**
-  
-* **What are the best practices for performance optimization in Jetpack Compose?**
-  
-* **Can we use both Jetpack Compose and Android View in a Single App?**
-  
-* **What is State Hoisting?**
-  
-* **Explain CompositionLocal**
-  
-* **Explain Jetpack Compose Phases.**
-  
-* **What is the role of the Modifier in Jetpack Compose?**
-  
-* **What are Semantics?**
-  
-* **How can you handle user input and events in Jetpack Compose?**
-  
-* **How do you handle navigation in Jetpack Compose?**
-  
-* **How do you handle orientation changes in Jetpack Compose?**
-  
-* **Explain the concept of unidirectional data flow in Jetpack Compose.**
-  
-* **How to create Custom Layouts in Compose?**
-
-### Other Topics
-
-Android Interview Questions and Answers:
-
-* **Describe SQLite.**
-
-* **Have you used Room?**
-
-* **Can we identify the users who have uninstalled our application?**
-
-* **Android Development Best Practices.** - Learn from here: [Android Development Best Practices](https://outcomeschool.com/blog/android-development-best-practices)
-
-* **React Native vs Flutter** - Learn from here: [React Native vs Flutter](https://outcomeschool.com/blog/react-native-vs-flutter)
-
-* **What are the metrics that you should measure continuously while android application development?** - Learn from here: [Android App Performance Metrics](https://outcomeschool.com/blog/android-app-performance-metrics)
-
-* **How to avoid API keys from check-in into VCS?**
-
-* **How does the Kotlin Multiplatform work?** - [Blog](https://outcomeschool.com/blog/how-does-the-kotlin-multiplatform-work)
-
-* **How to use Memory Heap Dumps data?**
-
-* **How to implement Dark Theme in your app?**
-
-* **What is Cleartext traffic?** Learn from here: [What is Cleartext traffic?](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7281879316601126913-x1az)
-
-* **Explain Annotation processing.** Learn from here: [The Full Guide to ANNOTATIONS In Kotlin](https://www.youtube.com/watch?v=qdnhQzVGywQ)
-
-* **How does the Android Push Notification system work?** Learn from here: [How does the Android Push Notification system work?](https://youtu.be/810IFG2sWlc)
-
-* **Android Push Notification Flow using FCM.** Learn from here: [Android Push Notification Flow using FCM](https://www.youtube.com/watch?v=TrufwW4ILHg)
-
-* **How to show local Notification at an exact time?** [Local Notifications in Android - The Full Guide](https://www.youtube.com/watch?v=LP623htmWcI)
-
-### Security
-* **How to save user credentials with the google credential manager?**  Learn from here: [Save User Credentials With the Google Credential Manager](https://www.youtube.com/watch?v=FULNucVxf94)
-* **How to secure the API keys used in an Android App?** Learn from here: [How to Hide & Protect API Keys in Your Android App](https://www.youtube.com/watch?v=-2ckvIzs0nU)
-
-### Code quality
-* * **Code Analysis in Android: Detekt?**  Learn from here: [Code Analysis in Android: Detekt](https://www.youtube.com/watch?v=3uSq6sFzhQo)
-* * **How to Automatically Fix Your Code Style With Ktlint?**  Learn from here: [How to Automatically Fix Your Code Style With Ktlint](https://www.youtube.com/watch?v=hSgPNbEcX98)
-* * **Android performance analysis** Learn from here [App Performance Analysis with the Android Studio Profiler](https://www.youtube.com/watch?v=CQc-QDTmCoQ)
- 
-### Data Structures and Algorithms
-
-* **Android Developer should know these Data Structures for Next Interview** - [Check here](https://outcomeschool.com/blog/android-developer-should-know-these-data-structures-for-next-interview)
 
 ```
